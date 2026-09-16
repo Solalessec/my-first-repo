@@ -1,2 +1,1 @@
-This is my first Git repository.
-This line was added in feature-1.
+This is the first time I use and create a Git repository
